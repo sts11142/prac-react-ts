@@ -1,3 +1,7 @@
+次のYT動画の実践（練習）リポジトリ
+
+[TypeScript in React - EVERYTHING You Need to Know](https://youtu.be/TPACABQTHvM?si=8Juiq4opFybE-Ytd)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
